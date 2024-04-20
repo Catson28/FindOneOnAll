@@ -8,11 +8,11 @@
 
 3. [![Implementação de HTML, CSS, JavaScript (Template)](https://img.shields.io/badge/Implementação_de_HTML_CSS_JavaScript_(Template)-green?style=for-the-badge)](URL_DA_PÁGINA)
 
-4. [![Front-end com React, Electron ou React Native](https://img.shields.io/badge/Front_end_com_React_Electron_ou_React_Native-red?style=for-the-badge)](URL_DA_PÁGINA)
+4. [![Implementação de Testes](https://img.shields.io/badge/Implementação_de_Testes-purple?style=for-the-badge)](URL_DA_PÁGINA)
 
-5. [![Back-end com Django](https://img.shields.io/badge/Back_end_com_Django-yellow?style=for-the-badge)](URL_DA_PÁGINA)
+5. [![Front-end com React, Electron ou React Native](https://img.shields.io/badge/Front_end_com_React_Electron_ou_React_Native-red?style=for-the-badge)](URL_DA_PÁGINA)
 
-6. [![Implementação de Testes](https://img.shields.io/badge/Implementação_de_Testes-purple?style=for-the-badge)](URL_DA_PÁGINA)
+6. [![Back-end com Django](https://img.shields.io/badge/Back_end_com_Django-yellow?style=for-the-badge)](URL_DA_PÁGINA)
 
 7. [![Deploy da Aplicação](https://img.shields.io/badge/Deploy_da_Aplicação-orange?style=for-the-badge)](URL_DA_PÁGINA)
 
