@@ -1,1 +1,1 @@
-[![Instruções](https://img.shields.io/badge/Back-red?style=for-the-badge)](./)
+[![Instruções](https://img.shields.io/badge/Back-red?style=for-the-badge)](../instructions.md)
