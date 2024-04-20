@@ -2,6 +2,6 @@
 
 1. [![Implementação de HTML](https://img.shields.io/badge/Implementação_de_HTML-blue?style=for-the-badge)](instructions/Implementacao_de_HTML_CSS_JavaScript/HTML/readme.md)
 
-2. [![Implementação de CSS](https://img.shields.io/badge/Implementação_de_CSS-green?style=for-the-badge)](instructions/Implementacao_de_HTML_CSS_JavaScript/CSS)
+2. [![Implementação de CSS](https://img.shields.io/badge/Implementação_de_CSS-green?style=for-the-badge)](instructions/Implementacao_de_HTML_CSS_JavaScript/CSS/)
 
 3. [![Implementação de JavaScript](https://img.shields.io/badge/Implementação_de_JavaScript-yellow?style=for-the-badge)](instructions/Implementacao_de_HTML_CSS_JavaScript/JavaScript/readme.md)
