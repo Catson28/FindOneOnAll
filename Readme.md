@@ -2,7 +2,7 @@
 
 
 
-1. [![Análise e Desenho de Sistema](https://img.shields.io/badge/Análise_e_Desenho_de_Sistema-181717?style=for-the-badge)](URL_DA_PÁGINA)
+1. [![Análise e Desenho de Sistema](https://img.shields.io/badge/Análise_e_Desenho_de_Sistema-blue?style=for-the-badge)](URL_DA_PÁGINA)
 
 2. [![Botão](https://img.shields.io/badge/Prototipação_com_Figma_ou_Adobe_XD-181717?style=for-the-badge)](URL_DA_PÁGINA)
 
