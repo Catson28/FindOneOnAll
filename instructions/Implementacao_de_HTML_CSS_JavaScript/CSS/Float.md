@@ -1,5 +1,25 @@
 [![Instruções](https://img.shields.io/badge/Back-red?style=for-the-badge)](readme.md)
 
+### Float
+1. **Left (Flutuação para a Esquerda)**:
+   ```css
+   .element {
+       float: left;
+   }
+   ```
+2. **Right (Flutuação para a Direita)**:
+   ```css
+   .element {
+       float: right;
+   }
+   ```
+3. **None (Nenhuma Flutuação)**:
+   ```css
+   .element {
+       float: none;
+   }
+   ```
+
 ![](img/1_CFwJ6lMQMOi4Oy7L8Mn17g.png)
 
 ![](img/ggg.png)
