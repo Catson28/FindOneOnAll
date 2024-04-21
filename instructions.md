@@ -20,4 +20,4 @@
 
 #   Outras instrucoes
 
-1. [![Mais](https://img.shields.io/badge/See_more...-orange?style=for-the-badge)](https://github.com/Catson28/Enployer-Management)
+1. [![Mais](https://img.shields.io/badge/See_more...-grey?style=for-the-badge)](https://github.com/Catson28/Enployer-Management)
