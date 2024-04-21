@@ -16,3 +16,8 @@
 6. [![Back-end com Django](https://img.shields.io/badge/Back_end_com_Django-yellow?style=for-the-badge)](instructions/Back_end_com_Django.md)
 
 7. [![Deploy da Aplicação](https://img.shields.io/badge/Deploy_da_Aplicação-orange?style=for-the-badge)](instructions/Deploy_da_Aplicação.md)
+
+
+#   Outras instrucoes
+
+1. [![Mais](https://img.shields.io/badge/See_more...-orange?style=for-the-badge)](https://github.com/Catson28/Enployer-Management)
