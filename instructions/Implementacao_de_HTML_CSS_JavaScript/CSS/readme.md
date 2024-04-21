@@ -57,29 +57,29 @@
 ## Pseudo-Elementos
 
 1. **::first-line:**
-|   Descrição: Aplica estilos apenas à primeira linha de um elemento.
+   Descrição: Aplica estilos apenas à primeira linha de um elemento.
    ![::first-line](https://img.shields.io/badge/::first-line-blue?style=for-the-badge)
 
 2. **::first-letter:**
-|   Descrição: Aplica estilos apenas à primeira letra de um elemento.
+Descrição: Aplica estilos apenas à primeira letra de um elemento.
    ![::first-letter](https://img.shields.io/badge/::first-letter-green?style=for-the-badge)
 
 3. **::selection:**
-|   Descrição: Aplica estilos ao texto selecionado pelo usuário.
-   ![::selection](https://img.shields.io/badge/::selection-yellow?style=for-the-badge)
+Descrição: Aplica estilos ao texto selecionado pelo usuário.
+![::selection](https://img.shields.io/badge/::selection-yellow?style=for-the-badge)
 
 4. **::placeholder:**
-|   Descrição: Aplica estilos ao texto de placeholder em inputs.
-   ![::placeholder](https://img.shields.io/badge/::placeholder-purple?style=for-the-badge)
+Descrição: Aplica estilos ao texto de placeholder em inputs.
+![::placeholder](https://img.shields.io/badge/::placeholder-purple?style=for-the-badge)
 
 5. **::marker:**
-|   Descrição: Permite estilizar os marcadores de listas.
-   ![::marker](https://img.shields.io/badge/::marker-orange?style=for-the-badge)
+Descrição: Permite estilizar os marcadores de listas.
+![::marker](https://img.shields.io/badge/::marker-orange?style=for-the-badge)
 
 6. **::backdrop:**
-|   Descrição: Aplica estilos ao plano de fundo por trás de um elemento modal ou popup.
-   ![::backdrop](https://img.shields.io/badge/::backdrop-blue?style=for-the-badge)
+Descrição: Aplica estilos ao plano de fundo por trás de um elemento modal ou popup.
+![::backdrop](https://img.shields.io/badge/::backdrop-blue?style=for-the-badge)
 
 7. **::cue:**
-|   Descrição: Controla a exibição de cue points em elementos de mídia.
-   ![::cue](https://img.shields.io/badge/::cue-green?style=for-the-badge)
+Descrição: Controla a exibição de cue points em elementos de mídia.
+![::cue](https://img.shields.io/badge/::cue-green?style=for-the-badge)
