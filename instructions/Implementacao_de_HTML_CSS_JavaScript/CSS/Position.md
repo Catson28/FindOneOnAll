@@ -1,4 +1,4 @@
-[![Instruções](https://img.shields.io/badge/Back-red?style=for-the-badge)](../instructions.md)
+[![Instruções](https://img.shields.io/badge/Back-red?style=for-the-badge)](readme.md)
 
 ![](img/1_x5xm9DVS6QouWCAeII9w8A.png)
 
