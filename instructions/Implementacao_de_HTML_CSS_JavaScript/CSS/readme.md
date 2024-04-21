@@ -37,3 +37,18 @@
 5. **:checked (evento de marcação em um input do tipo checkbox ou radio) - Laranja:**
    ### :checked
    [![:checked](https://img.shields.io/badge/:checked-orange?style=for-the-badge)](URL_CHECKED)
+
+
+#   Propriedades CSS relacionadas à visibilidade de elementos na tela
+
+1. **Overflow:**
+   #### Overflow
+   [![Overflow](https://img.shields.io/badge/Overflow-blue?style=for-the-badge)](URL_OVERFLOW)
+
+2. **Visibility:**
+   #### Visibility
+   [![Visibility](https://img.shields.io/badge/Visibility-green?style=for-the-badge)](URL_VISIBILITY)
+
+3. **Display:**
+   #### Display
+   [![Display](https://img.shields.io/badge/Display-yellow?style=for-the-badge)](URL_DISPLAY)
