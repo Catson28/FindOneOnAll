@@ -21,3 +21,5 @@
 #   Outras instrucoes
 
 1. [![Mais](https://img.shields.io/badge/See_more...-grey?style=for-the-badge)](https://github.com/Catson28/Enployer-Management)
+
+2. [![Mais](https://img.shields.io/badge/About_Me-cyan?style=for-the-badge)](https://github.com/Catson28/About_Me)
