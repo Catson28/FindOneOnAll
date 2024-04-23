@@ -3,5 +3,5 @@
 #   Projects
 
 
-[![Projectos](https://img.shields.io/badge/Projectos-verde?style=for-the-badge)](projectos)
+[![Projectos](https://img.shields.io/badge/Projectos-verde?style=for-the-badge)](projectos/projectos)
 [![Emprego](https://img.shields.io/badge/Emprego-blue?style=for-the-badge)](emprego)
