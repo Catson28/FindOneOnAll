@@ -7,3 +7,5 @@
 [![ReactNative](https://img.shields.io/badge/ReactNative-cyan?style=for-the-badge)](https://github.com/Catson28/Enployer-Management/tree/main/Cursos/Programacao/Linguagens/Front-End/React-Native)
 
 [![Electron](https://img.shields.io/badge/Electron-blue?style=for-the-badge)](https://github.com/Catson28/Enployer-Management/tree/main/Cursos/Programacao/Linguagens/Front-End/Electron)
+
+[![uxux](https://img.shields.io/badge/UX/UI-black?style=for-the-badge)](https://github.com/Catson28/Enployer-Management/blob/main/Pesquisar/UI_UX)
