@@ -2,7 +2,7 @@
 
 #   Instructions
 
-1. [![passos_para_agilizar_o_desenvolvimento](https://img.shields.io/badge/Passos_para_agilizar_o_desenvolvimento-blue?style=for-the-badge)](https://github.com/Catson28/Enployer-Management/Ferramentas/Gerais/)
+1. [![passos_para_agilizar_o_desenvolvimento](https://img.shields.io/badge/Passos_para_agilizar_o_desenvolvimento-blue?style=for-the-badge)](https://github.com/Catson28/Enployer-Management/Ferramentas/Gerais/readme.md)
 
 2. [![Análise e Desenho de Sistema](https://img.shields.io/badge/Análise_e_Desenho_de_Sistema-pink?style=for-the-badge)](instructions/Análise_e_Desenho_de_Sistema.md)
 
