@@ -1,4 +1,4 @@
-[![GitHub](https://img.shields.io/badge/Home_Instructions-181717?style=for-the-badge&logo=github)](instructions.md)
+[![GitHub](https://img.shields.io/badge/Instructions_Page-181717?style=for-the-badge&logo=github)](instructions.md)
 
 #   Lista De Instrucoes para Negociacao
 
