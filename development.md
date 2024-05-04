@@ -1,6 +1,6 @@
 [![GitHub](https://img.shields.io/badge/Instructions_Page-181717?style=for-the-badge&logo=github)](instructions.md)
 
-#   Instructions De Desenvolvimento
+#   Development Instructions
 
 1. [![passos_para_agilizar_o_desenvolvimento](https://img.shields.io/badge/Passos_para_agilizar_o_desenvolvimento-blue?style=for-the-badge)](https://github.com/Catson28/Enployer-Management/tree/main/Ferramentas/Gerais)
 
