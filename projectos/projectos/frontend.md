@@ -8,5 +8,3 @@
 
 [![LumeIT](https://img.shields.io/badge/LumeIT-yellow?style=for-the-badge)](https://lumeit.netlify.app/) -  [LumeIT](https://github.com/Catson28/LumeIT) - Repositorio do [build](https://github.com/Catson28/Build-LumeIT)
 
-
-[![Payoneer](https://img.shields.io/badge/Payoneer-green?style=for-the-badge)](https://www.payoneer.com/) - Sede nos Estados Unidos.
