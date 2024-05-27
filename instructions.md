@@ -5,3 +5,5 @@
 1. [![desenvolvimento](https://img.shields.io/badge/desenvolvimento-blue?style=for-the-badge)](development.md)
 
 2. [![business](https://img.shields.io/badge/business-orange?style=for-the-badge)](business.md)
+
+2. [![Edicao](https://img.shields.io/badge/Edicao-red?style=for-the-badge)](https://github.com/Catson28/Enployer-Management/tree/main/Negocios/Outras%20profissoes/Fotografia)
