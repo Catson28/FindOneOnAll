@@ -16,7 +16,10 @@
 
 [![ecommerce_react_js](https://img.shields.io/badge/rota_privada_na-autenticacao_typescript-navi?style=for-the-badge)](https://github.com/Catson28/react-typescript-privatedroute-login) -  [Repo](https://github.com/Catson28/react-typescript-privatedroute-login) - Repositorio do [build]()
 
-[![ecommerce_react_js](https://img.shields.io/badge/autenticacao_basica_com_typescript-green?style=for-the-badge)](https://github.com/Catson28/react_typescript_login) -  [Repo](https://github.com/Catson28/react_typescript_login) - Repositorio do [build]()
+[![ecommerce_react_js](https://img.shields.io/badge/autenticacao_basica_com_typescript_acessando_api-green?style=for-the-badge)](https://github.com/Catson28/react_typescript_login) -  [Repo](https://github.com/Catson28/react_typescript_login) - Repositorio do [build]()
 
 
-[![ecommerce_react_js](https://img.shields.io/badge/autenticacao_com_perfis_de_acesso_typescript-maroon?style=for-the-badge)](https://github.com/Catson28/react_typescript_auth_roles) -  [Repo](https://github.com/Catson28/react_typescript_auth_roles) - Repositorio do [build]()
+[![autenticacao_com_perfis_de_acesso_typescript_acessando_api](https://img.shields.io/badge/autenticacao_com_perfis_de_acesso_typescript_acessando_api-maroon?style=for-the-badge)](https://github.com/Catson28/react_typescript_auth_roles) -  [Repo](https://github.com/Catson28/react_typescript_auth_roles) - Repositorio do [build]()
+
+
+[![rota_privada_na](https://img.shields.io/badge/rota_privada_na-autenticacao_javacript-gold?style=for-the-badge)](https://github.com/Catson28/react_javacript_login) -  [Repo](https://github.com/Catson28/react_javacript_login) - Repositorio do [build]()
