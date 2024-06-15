@@ -25,4 +25,7 @@
 [![rota_privada_na](https://img.shields.io/badge/rota_privada_na-autenticacao_javacript-gold?style=for-the-badge)](https://github.com/Catson28/react_javacript_login) -  [Repo](https://github.com/Catson28/react_javacript_login) - Repositorio do [build]()
 
 
-[![rota_privada_na](https://img.shields.io/badge/crud_react_context_api_javascript-cyan?style=for-the-badge)](https://github.com/Catson28/crud-react-context_api) -  [Repo](https://github.com/Catson28/crud-react-context_api) - Repositorio do [build]()
+[![rota_privada_na](https://img.shields.io/badge/crud_react_context_api-javascript-cyan?style=for-the-badge)](https://github.com/Catson28/crud-react-context_api) -  [Repo](https://github.com/Catson28/crud-react-context_api) - Repositorio do [build]()
+
+
+[![rota_privada_na](https://img.shields.io/badge/crud_react_context_api-TYPESCRIPT-brown?style=for-the-badge)](https://github.com/Catson28/crud-react_TYPESCRIPT-context_api) -  [Repo](https://github.com/Catson28/crud-react_TYPESCRIPT-context_api) - Repositorio do [build]()
