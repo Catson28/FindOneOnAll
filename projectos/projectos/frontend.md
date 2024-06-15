@@ -14,6 +14,8 @@
 
 # Para Reutilizar
 
+[![ecommerce_react_js](https://img.shields.io/badge/rota_privada_na-autenticacao_typescript-maroon?style=for-the-badge)](https://github.com/Catson28/react-typescript-privatedroute-login) -  [Repo](https://github.com/Catson28/react-typescript-privatedroute-login) - Repositorio do [build]()
+
 [![ecommerce_react_js](https://img.shields.io/badge/autenticacao_basica_com_typescript-green?style=for-the-badge)](https://github.com/Catson28/react_typescript_login) -  [Repo](https://github.com/Catson28/react_typescript_login) - Repositorio do [build]()
 
 
