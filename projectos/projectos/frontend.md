@@ -29,3 +29,6 @@
 
 
 [![rota_privada_na](https://img.shields.io/badge/crud_react_context_api-TYPESCRIPT-brown?style=for-the-badge)](https://github.com/Catson28/crud-react_TYPESCRIPT-context_api) -  [Repo](https://github.com/Catson28/crud-react_TYPESCRIPT-context_api) - Repositorio do [build]()
+
+
+[![rota_privada_na](https://img.shields.io/badge/acl_de_exemplo-TYPESCRIPT-purple?style=for-the-badge)](https://github.com/Catson28/basic-typescript-acl) -  [Repo](https://github.com/Catson28/basic-typescript-acl) - Repositorio do [build]()
