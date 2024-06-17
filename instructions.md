@@ -8,4 +8,4 @@
 
 2. [![Edicao](https://img.shields.io/badge/Edicao-red?style=for-the-badge)](https://github.com/Catson28/Enployer-Management/tree/main/Negocios/Outras%20profissoes/Fotografia)
 
-2. [![antigas](https://img.shields.io/badge/Edicao-purple?style=for-the-badge)](https://github.com/Catson28/Classes-for-the-Cloud)
+2. [![antigas](https://img.shields.io/badge/Instrucoes_Antigas-purple?style=for-the-badge)](https://github.com/Catson28/Classes-for-the-Cloud)
