@@ -6,4 +6,4 @@
 
 [![Meu_Emprego](https://img.shields.io/badge/Meu_Emprego-red?style=for-the-badge)](https://github.com/Catson28/Enployer-Management/tree/main/Minhas_rendas)
 
-[![Muito_iportante](https://img.shields.io/badge/Muito_iportante-red?style=for-the-badge)](https://github.com/Catson28/Enployer-Management/blob/main/Negocios/Importante.md)
+[![Muito_importante](https://img.shields.io/badge/Muito_importante-purple?style=for-the-badge)](https://github.com/Catson28/Enployer-Management/blob/main/Negocios/Importante.md)
